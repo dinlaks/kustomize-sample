@@ -1,1 +1,1 @@
-# kustomize-sample
+# kustomize-example-app
